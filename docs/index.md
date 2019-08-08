@@ -48,15 +48,15 @@ We suggest you make a backup of any document that we may be working on with you 
 
 At the time of the appointment, use the link provided to [access your online appointment](https://philreeddata.github.io/tls-chat/) \[FINAL LINK TBA\]. Click the button ‘**Yes, I have an appointment**’ to see a chat box. Type your name. In the ‘**Your Question**’ box, explain that you have an appointment and give the name of the librarian you are expecting to speak with.
 
-image
+![Access your online appointment](images/11-start.png)
 
 Once you are connected, you will be invited to screenshare. Click the ‘**Join the screensharing session**’ link. We will come back to the Library Chat box after the screensharing session is finished; please keep this window open.
 
-image
+![Chat](images/12-chat.png)
 
 A new tab will open in your browser. If you have not installed Zoom, you will be offered to download the Zoom installer. You need to download and run this in order to continue. You may be asked to agree to Zoom’s terms of service and privacy policy. 
 
-image
+![Click to download Zoom](images/13-click.png)
 
 You may see a message ‘**Please wait for the host to start this meeting.**’ 
 
@@ -65,7 +65,7 @@ You may see a message ‘**Please wait for the host to start this meeting.**’
 
 The Zoom software will launch in a new window.
 
-image
+![Please wait for the host to start this meeting](images/14-wait.png)
 
 [ ^ back to contents](#help-using-online-appointments)
 
@@ -76,15 +76,15 @@ image
 
 While you wait for the host to start the meeting, you can **test your computer audio**. Follow the instructions on screen. If you cannot get audio to work, type a message in the chat box to explain this and ask for a telephone number to call.
 
-image 
+![Speak and pause](images/21-speak.png) 
 
 After you have completed the audio test, you can click the ‘**Join with Computer Audio**’ button.
 
-image
+![Speaker and microphone looks good](images/22-good.png)
 
 You should see a message ‘**Computer Audio Connected**’. The appointment can now begin.. 
 
-image 
+![Talking](images/23-talking.png)
 
 You should be able to hear the host speaking. The host may also join with their webcam, in which case you will be able to see their face. There is no need for you to join with your webcam as well, unless you want to.
 
@@ -101,25 +101,25 @@ Click on the ‘**Chat**’ icon in the black icon bar at the bottom of the scre
 
 At the start of the meeting, your audio may be muted. Click the ‘**Unmute**’ icon at the left of the black icon bar if there is one. If you have a ‘**Mute**’ icon, do not click this unless you want to mute yourself.
 
-image
+![Talking](images/31-talking.png)
 
 Click on the ‘**Share**’ icon at the bottom of the screen. You can choose to share your entire screen or a specific window (such as your browser, Word or Excel). **We recommend sharing the entire screen**, assuming you have no confidential or sensitive data visible. Click the ‘**Share**’ button.
 
-image
+![Share your screen](images/32-share.png)
 
 When you start sharing your screen, the Zoom window is maximised. The black icon bar moves to the top of the screen. The chat box disappears; you can get it back by click on ‘**More**’ then ‘**Chat**’.
 
-image
+![Screen is being shared](images/33-excel.png)
 
-image
+![Zoom chat](images/34-chat.png)
 
 There are annotation tools that you or the host can use to highlight parts of your screen with boxes, arrows or lines.
 
-image
+![Annotation](images/35-draw.png)
 
 Your host may ask to take control of your screen. This can be a useful way for them to fix your EndNote library, change your search details or help with whatever you need. When the host requests to take control of your screen, you will get a message; click the ‘**Approve**’ button if you agree.
 
-image
+![Requesting remote control of your screen](images/36-request.png)
 
 [ ^ back to contents](#help-using-online-appointments)
 
@@ -130,7 +130,7 @@ image
 Your host may share their screen with you. You will see it automatically when they choose to share it.
 When they start sharing their screen, the Zoom window is maximised. The black icon bar moves to the top of the screen. The chat box disappears; you can get it back by click on ‘**More**’ then ‘**Chat**’.
 
-image
+![Share host's screen](images/41-share.png)
 
 If the host is using a webcam, their face will appear in a small window on the right. You can move this around the screen as required. 
 
@@ -142,10 +142,10 @@ If the host is using a webcam, their face will appear in a small window on the r
 
 When you have finished, you can leave the meeting by clicking on the red ‘**Leave Meeting**’ icon at the right of the black icon bar. You will be asked to confirm.
 
-image
+![Leave meeting](images/51-end.png)
 
 When Zoom has closed, go back to the Library Chat window. After the host has left the chat, you will be asked to give feedback. You can choose to email yourself a transcript of the chat; please note, this will only include what was typed in the Library Chat window, not the Zoom window.
 
-image
+![Feedback](images/52-feedback.png)
 
 [ ^ back to contents](#help-using-online-appointments)
