@@ -14,5 +14,6 @@ This html page (or set of html and css files) will be a wrapper for a LibChat wi
   * Open the docs file in the browser
   * Save it as html
   * Replace all the image references with `images/`, except the logo which is on the UoM server
+  * Replace the link at the bottom from github to `../`
   * Rename it `docs/index.html` then copy it over
 
