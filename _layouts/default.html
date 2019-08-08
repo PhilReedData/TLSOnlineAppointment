@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    
+    <style type="text/css">
+      * {   font-family: 'Open Sans', sans-serif; color: #343536; }
+      body {    max-width: 1140px; margin: 0.5em auto; width: 96%; }
+      .site-identifier { font-size: 22px; }
+      .site-identifier a {  color: #6B2C91; text-decoration: none; }
+      h1 { color: #6B2C91; font-weight: 300; font-size: 3em;}
+	    
+	    .mainLogo {float: left;}
+	    .site-identifier {float: left; margin: 0.5em;}
+	    article {clear: both;}
+	    
+	    a { color: #6b2c91; text-decoration: none; }
+	    a:hover { text-decoration:underline; color: #343536; }
+    </style>
+    </head>
+  <body>
+    <header class="headerContainer">
+      <div class="mainLogo">
+        <a href="http://www.manchester.ac.uk/">
+          <img src="https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png" height="86" width="206" alt="The University of Manchester Logo"/>
+        </a>
+      </div>
+      <div class="site-identifier">
+        <p class=""><a href="https://www.library.manchester.ac.uk/">The University of Manchester Library</a></p>
+      </div>
+    </header>
+    
+    <article>
+      {{ content }}
+    </article>
+    <footer>
+      <br /> <br /> <br /> <br /> 
+      <p>Alpha version.</p>
+      <p>
+        Back to <a href="http://www.manchester.ac.uk/library">Library homepage</a>
+      </p>
+    </footer>
+  </body>
+</html>
