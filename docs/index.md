@@ -11,10 +11,10 @@ The appointment will allow both you and the member of library staff, to share sc
 
 * [What should I do before the online appointment?](#what-should-i-do-before-the-online-appointment)
 * [How do I start the online appointment?](#how-do-i-start-the-online-appointment)
-* [How do I connect my microphone and speakers/headphones?]()
-* [The appointment has started; how can I share my screen?]()
-* [The appointment has started; how can I see my host’s screen?]()
-* [How do I end an online appointment?]()
+* [How do I connect my microphone and speakers/headphones?](#how-do-i-connect-my-microphone-and-speakersheadphones)
+* [The appointment has started; how can I share my screen?](#the-appointment-has-started-how-can-i-share-my-screen)
+* [The appointment has started; how can I see my host’s screen?](#the-appointment-has-started-how-can-i-see-my-hosts-screen)
+* [How do I end an online appointment?](#how-do-i-end-an-online-appointment)
 
 
 
@@ -88,8 +88,10 @@ image
 
 You should be able to hear the host speaking. The host may also join with their webcam, in which case you will be able to see their face. There is no need for you to join with your webcam as well, unless you want to.
 
-
 [ ^ back to contents](#help-using-online-appointments)
+
+
+
 
 ## The appointment has started; how can I share my screen?
 
@@ -119,6 +121,10 @@ Your host may ask to take control of your screen. This can be a useful way for t
 
 image
 
+[ ^ back to contents](#help-using-online-appointments)
+
+
+
 ## The appointment has started; how can I see my host’s screen?
 
 Your host may share their screen with you. You will see it automatically when they choose to share it.
@@ -127,6 +133,9 @@ When they start sharing their screen, the Zoom window is maximised. The black ic
 image
 
 If the host is using a webcam, their face will appear in a small window on the right. You can move this around the screen as required. 
+
+[ ^ back to contents](#help-using-online-appointments)
+
 
 
 ## How do I end an online appointment?
@@ -138,3 +147,5 @@ image
 When Zoom has closed, go back to the Library Chat window. After the host has left the chat, you will be asked to give feedback. You can choose to email yourself a transcript of the chat; please note, this will only include what was typed in the Library Chat window, not the Zoom window.
 
 image
+
+[ ^ back to contents](#help-using-online-appointments)
