@@ -67,19 +67,74 @@ The Zoom software will launch in a new window.
 
 image
 
-[Back to contents](#help-using-online-appointments)
+[ ^ back to contents](#help-using-online-appointments)
 
 
 
 
 ## How do I connect my microphone and speakers/headphones?
 
+While you wait for the host to start the meeting, you can **test your computer audio**. Follow the instructions on screen. If you cannot get audio to work, type a message in the chat box to explain this and ask for a telephone number to call.
 
-[\^ back to contents](#help-using-online-appointments)
+image 
+
+After you have completed the audio test, you can click the ‘**Join with Computer Audio**’ button.
+
+image
+
+You should see a message ‘**Computer Audio Connected**’. The appointment can now begin.. 
+
+image 
+
+You should be able to hear the host speaking. The host may also join with their webcam, in which case you will be able to see their face. There is no need for you to join with your webcam as well, unless you want to.
+
+
+[ ^ back to contents](#help-using-online-appointments)
 
 ## The appointment has started; how can I share my screen?
 
+Before you share your screen, you can open the Chat area within Zoom to type messages or copy and paste text. (Note, this is separate to the Library Chat conversation.) 
+
+Click on the ‘**Chat**’ icon in the black icon bar at the bottom of the screen to open the ‘**Zoom Group Chat**’ on the right of the screen. (If the black icon bar is not showing, move the mouse to the bottom of the screen to reveal it.)
+
+At the start of the meeting, your audio may be muted. Click the ‘**Unmute**’ icon at the left of the black icon bar if there is one. If you have a ‘**Mute**’ icon, do not click this unless you want to mute yourself.
+
+image
+
+Click on the ‘**Share**’ icon at the bottom of the screen. You can choose to share your entire screen or a specific window (such as your browser, Word or Excel). **We recommend sharing the entire screen**, assuming you have no confidential or sensitive data visible. Click the ‘**Share**’ button.
+
+image
+
+When you start sharing your screen, the Zoom window is maximised. The black icon bar moves to the top of the screen. The chat box disappears; you can get it back by click on ‘**More**’ then ‘**Chat**’.
+
+image
+
+image
+
+There are annotation tools that you or the host can use to highlight parts of your screen with boxes, arrows or lines.
+
+image
+
+Your host may ask to take control of your screen. This can be a useful way for them to fix your EndNote library, change your search details or help with whatever you need. When the host requests to take control of your screen, you will get a message; click the ‘**Approve**’ button if you agree.
+
+image
+
 ## The appointment has started; how can I see my host’s screen?
+
+Your host may share their screen with you. You will see it automatically when they choose to share it.
+When they start sharing their screen, the Zoom window is maximised. The black icon bar moves to the top of the screen. The chat box disappears; you can get it back by click on ‘**More**’ then ‘**Chat**’.
+
+image
+
+If the host is using a webcam, their face will appear in a small window on the right. You can move this around the screen as required. 
+
 
 ## How do I end an online appointment?
 
+When you have finished, you can leave the meeting by clicking on the red ‘**Leave Meeting**’ icon at the right of the black icon bar. You will be asked to confirm.
+
+image
+
+When Zoom has closed, go back to the Library Chat window. After the host has left the chat, you will be asked to give feedback. You can choose to email yourself a transcript of the chat; please note, this will only include what was typed in the Library Chat window, not the Zoom window.
+
+image
