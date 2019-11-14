@@ -5,7 +5,7 @@ title: "Online appointment help"
 
 # Help using online appointments
 
-If you have an enquiry with a member of library staff from the [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/) or [Specialist Library Support](https://www.library.manchester.ac.uk/using-the-library/students/specialist-learning/) teams, 
+If you have an enquiry with a member of library staff from the [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/) or [Specialist Library Support](https://www.library.manchester.ac.uk/using-the-library/specialist-library-support/) teams, 
 they may offer you an online appointment. 
 The appointment will allow you to share screens, and communicate via audio or video.
 
@@ -51,7 +51,7 @@ At the time of the appointment, use the link provided to 'access your online app
 
 ![Access your online appointment](images/11-start.png)
 
-Type your name. In the ‘**Your Question**’ box, explain that you have an appointment and give the name of the librarian you are expecting to speak with.
+In the ‘**Name**’ box, type your name. In the ‘**Name of librarian you have an appointment with**’ box, type the name of the librarian you are expecting to speak with.
 
 Once you are connected, you will be invited to screenshare. Click the ‘**Join the screensharing session**’ link. We will come back to the Library Chat box after the screensharing session is finished; please keep this window open.
 
@@ -114,7 +114,7 @@ At the start of the meeting, your audio may be muted. Click the ‘**Unmute**’
 
 ## The appointment has started; how can I share my screen?
 
-Click on the ‘**Share**’ icon at the bottom of the screen. You can choose to share your entire screen or a specific window (such as your browser, Word or Excel). **We recommend sharing the entire screen**, assuming you have no confidential or sensitive data visible. Click the ‘**Share**’ button.
+**Make sure you have no confidential or sensitive data visible on your screen.** Click on the ‘**Share**’ icon at the bottom of the screen. You can choose to share your entire screen or a specific window (such as your browser, Word or Excel). **We recommend sharing the entire screen.** Click the ‘**Share**’ button.
 
 ![Share your screen](images/32-share.png)
 
